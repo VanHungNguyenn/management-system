@@ -33,8 +33,8 @@ export const LoginForm = (props) => {
 	} = props
 
 	const initialCredential = {
-		email: 'user1@themenate.net',
-		password: '2005ipo',
+		email: 'admin@gmail.com',
+		password: '12345678',
 	}
 
 	const onLogin = (values) => {
